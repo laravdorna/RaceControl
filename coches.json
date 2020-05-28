@@ -1,0 +1,111 @@
+[ {
+  "id" : 1,
+  "marca" : "ford",
+  "modelo" : "fiesta",
+  "idGaraje" : 10
+}, {
+  "id" : 2,
+  "marca" : "ford",
+  "modelo" : "mondeo",
+  "idGaraje" : 10
+}, {
+  "id" : 3,
+  "marca" : "ford",
+  "modelo" : "kuga",
+  "idGaraje" : 10
+}, {
+  "id" : 4,
+  "marca" : "ford",
+  "modelo" : "kuga",
+  "idGaraje" : 10
+}, {
+  "id" : 5,
+  "marca" : "ford",
+  "modelo" : "focus",
+  "idGaraje" : 10
+}, {
+  "id" : 6,
+  "marca" : "toyota",
+  "modelo" : "corola",
+  "idGaraje" : 2
+}, {
+  "id" : 7,
+  "marca" : "toyota",
+  "modelo" : "auris",
+  "idGaraje" : 2
+}, {
+  "id" : 8,
+  "marca" : "toyota",
+  "modelo" : "yaris",
+  "idGaraje" : 2
+}, {
+  "id" : 9,
+  "marca" : "toyota",
+  "modelo" : "corola",
+  "idGaraje" : 2
+}, {
+  "id" : 10,
+  "marca" : "toyota",
+  "modelo" : "prius",
+  "idGaraje" : 2
+}, {
+  "id" : 11,
+  "marca" : "mazda",
+  "modelo" : "rx5",
+  "idGaraje" : 3
+}, {
+  "id" : 12,
+  "marca" : "mazda",
+  "modelo" : "rx5",
+  "idGaraje" : 3
+}, {
+  "id" : 13,
+  "marca" : "mazda",
+  "modelo" : "rx3",
+  "idGaraje" : 3
+}, {
+  "id" : 14,
+  "marca" : "mazda",
+  "modelo" : "rx8",
+  "idGaraje" : 3
+}, {
+  "id" : 15,
+  "marca" : "mazda",
+  "modelo" : "mx5",
+  "idGaraje" : 3
+}, {
+  "id" : 16,
+  "marca" : "renault",
+  "modelo" : "clio",
+  "idGaraje" : 5
+}, {
+  "id" : 17,
+  "marca" : "renault",
+  "modelo" : "megane",
+  "idGaraje" : 5
+}, {
+  "id" : 18,
+  "marca" : "renault",
+  "modelo" : "megane",
+  "idGaraje" : 5
+}, {
+  "id" : 19,
+  "marca" : "renault",
+  "modelo" : "clio",
+  "idGaraje" : 5
+}, {
+  "id" : 20,
+  "marca" : "renault",
+  "modelo" : "clio",
+  "idGaraje" : 5
+}, {
+  "id" : 21,
+  "marca" : "renault",
+  "modelo" : "clio",
+  "idGaraje" : 5
+}, {
+  "id" : 22,
+  "marca" : "aa",
+  "modelo" : "s",
+  "idGaraje" : 0
+} ]

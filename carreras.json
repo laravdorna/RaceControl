@@ -1,0 +1,73 @@
+[ {
+  "id" : 1,
+  "nombreCarrera" : "prueba",
+  "cochesParticipando" : [ 6, 11, 16, 1 ],
+  "podio" : [ 1, 6, 11, 16, 1, 11 ],
+  "tipoCarrera" : "ESTANDAR"
+}, {
+  "id" : 2,
+  "nombreCarrera" : "prueba eliminacion",
+  "cochesParticipando" : [ 6, 11, 16, 1, 4, 7, 9, 10 ],
+  "podio" : [ ],
+  "tipoCarrera" : "ELIMINACION"
+}, {
+  "id" : 3,
+  "nombreCarrera" : "f1_2",
+  "cochesParticipando" : [ 1, 2, 3, 4, 5 ],
+  "podio" : [ ],
+  "tipoCarrera" : "ESTANDAR"
+}, {
+  "id" : 4,
+  "nombreCarrera" : "f1_3",
+  "cochesParticipando" : [ 1, 2, 3, 4, 5 ],
+  "podio" : [ ],
+  "tipoCarrera" : "ELIMINACION"
+}, {
+  "id" : 5,
+  "nombreCarrera" : "f1_4",
+  "cochesParticipando" : [ 1, 2, 3, 4, 5 ],
+  "podio" : [ ],
+  "tipoCarrera" : "ELIMINACION"
+}, {
+  "id" : 6,
+  "nombreCarrera" : "f1_0",
+  "cochesParticipando" : [ 1, 2, 3, 4, 5 ],
+  "podio" : [ ],
+  "tipoCarrera" : "ELIMINACION"
+}, {
+  "id" : 7,
+  "nombreCarrera" : "f1_1",
+  "cochesParticipando" : [ 1, 2, 3, 4, 5 ],
+  "podio" : [ 2, 4, 3 ],
+  "tipoCarrera" : "ELIMINACION"
+}, {
+  "id" : 8,
+  "nombreCarrera" : "prueba_0",
+  "cochesParticipando" : [ 9, 13, 18, 4 ],
+  "podio" : [ 13, 18, 9 ],
+  "tipoCarrera" : "ELIMINACION"
+}, {
+  "id" : 9,
+  "nombreCarrera" : "prueba_1",
+  "cochesParticipando" : [ 9, 13, 18, 4 ],
+  "podio" : [ 4, 9, 9 ],
+  "tipoCarrera" : "ELIMINACION"
+}, {
+  "id" : 10,
+  "nombreCarrera" : "prueba_2",
+  "cochesParticipando" : [ 9, 13, 18, 4 ],
+  "podio" : [ 4, 13, 9 ],
+  "tipoCarrera" : "ELIMINACION"
+}, {
+  "id" : 11,
+  "nombreCarrera" : "prueba_3",
+  "cochesParticipando" : [ 9, 13, 18, 4 ],
+  "podio" : [ 18, 13, 9 ],
+  "tipoCarrera" : "ELIMINACION"
+}, {
+  "id" : 12,
+  "nombreCarrera" : "prueba_4",
+  "cochesParticipando" : [ 9, 13, 18, 4 ],
+  "podio" : [ 4, 18, 9 ],
+  "tipoCarrera" : "ELIMINACION"
+} ]
